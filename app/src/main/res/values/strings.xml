@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMapComposeLearn</string>
+    <string name="back">Back</string>
+    <string name="place_category_restaurant">Restaurant</string>
+    <string name="place_category_gas_station">Gas Station</string>
+    <string name="place_category_shopping_mall">Shopping</string>
+</resources>
